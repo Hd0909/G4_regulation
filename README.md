@@ -16,6 +16,8 @@ https://drive.google.com/file/d/1AIHGz3qQJlqTqoGSNNqeFJbF7VIdyKVa/view?usp=shari
 
 All the data required to generate the figures are in the ./data folder 
 The bash script/Rscript  used to download or preprocess the raw data are also in the ./data folder
+
+
 **2.** Run the following script to get the figures and supplementary figures
 ```
 cd ./Rscript
