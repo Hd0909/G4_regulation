@@ -8,7 +8,7 @@ quadruplex structure on gene expression
 **1.** Clone Github repository. 
 **1.** Clone Github repository and get the data from google drive. 
 ```
-git clone https://github.com/Hd0909/Evolution-of-3UTR.git
+https://github.com/Hd0909/G4_regulation.git
 ```
 download the rdata from the  following link
 https://drive.google.com/file/d/1AIHGz3qQJlqTqoGSNNqeFJbF7VIdyKVa/view?usp=sharing
@@ -22,16 +22,15 @@ The bash script/Rscript  used to download or preprocess the raw data are also in
 **3.** Run the following script to get the figures and supplementary figures
 ```
 cd ./Rscript
-#Supplementaryfigure1
-Rscript Rscript_for_Supplementaryfigure1.R
+
 ## Figure 1
 Rscript Rscript_for_figure1.R
 # Figure 2,3 and supplementary Figure3-9
-Rscript Rscript_for_figure23.R
+Rscript Rscript_for_figure2.R
 # Figure 4,5 and supplementary Figure2,10-11
-Rscript Rscript_for_figure45.R
+Rscript Rscript_for_figure34.R
 # Figure 6 and supplementary Figure2,12-14
-Rscript Rscript_for_figure6.R
+Rscript Rscript_for_figure56.R
 # supplementary Figure15-16
 Rscript Rscript_for_Supplementaryfigure15_16.R
 ```
