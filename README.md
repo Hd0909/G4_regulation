@@ -1,8 +1,6 @@
 Genome-wide analysis reveals the regulatory role of position-specific DNA G-quadruplex structure on gene expression
 ---------------------------------------------------------------------------------------
-This resource provides the R code and processed data to reproduce key results described in Dan H, et al. Genome-wide analysis reveals the regulatory role of position-specific DNA G-
-
-quadruplex structure on gene expression
+This resource provides the R code and processed data to reproduce key results described in Dan H, et al. Genome-wide analysis reveals the regulatory role of position-specific DNA G-quadruplex structure on gene expression
 
 ### Getting started
 **1.** Clone Github repository. 
