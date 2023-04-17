@@ -11,7 +11,7 @@ quadruplex structure on gene expression
 https://github.com/Hd0909/G4_regulation.git
 ```
 download the data from the  following link and store them in the ./data folder
-[https://drive.google.com/file/d/1AIHGz3qQJlqTqoGSNNqeFJbF7VIdyKVa/view?usp=sharing](https://drive.google.com/drive/folders/1c6k1d4MBdfZZiQILJrn-Dw-55nM5lSK2?usp=share_link)
+[https://drive.google.com/drive/folders/1c6k1d4MBdfZZiQILJrn-Dw-55nM5lSK2?usp=share_link]
 
 
 
