@@ -1,7 +1,6 @@
-Genome-wide analysis reveals the regulatory role of position-specific DNA G-quadruplex structure on gene expression
+Evolution of G-runs and G-quadruplexes downstream of transcription start site and their association with tumor suppressor genes
 ---------------------------------------------------------------------------------------
-This resource provides the R code and processed data to reproduce key results described in Dan H, et al. Genome-wide analysis reveals the regulatory role of position-specific DNA G-quadruplex structure on gene expression
-
+This resource provides the R code and processed data to reproduce key results described in Dan H, et al. Evolution of G-runs and G-quadruplexes downstream of transcription start site and their association with tumor suppressor genes
 ### Getting started
 **1.** Clone Github repository. 
 **1.** Clone Github repository and get the data from google drive. 
