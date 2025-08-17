@@ -17,15 +17,17 @@ download the data from the  following link and store them in the ./data folder
 cd ./Rscript
 
 ## Figure 1 and supplementary Figure1
-Rscript all_figure1.R
+Rscript figure1.r
 # Figure 2 and supplementary Figure2
-Rscript all_figure2.R
-# Figure 3,4 and supplementary Figure3-5
-Rscript all_figure34.R
-# Figure 5,6 and supplementary Figure6-11
-Rscript all_figure56.R
-# supplementary Figure12-13
-Rscript all_figure12_13.R
+Rscript figure2.r
+# Figure 3 and supplementary Figure3
+Rscript figure3.r
+# Figure 4 and supplementary Figure4
+Rscript figure4.r
+# Figure 5 and supplementary Figure5
+Rscript figure5.r
+# supplementary Figure16-17
+Rscript supplementary_16_17.r
 ```
 ### Contact
 danhuang2018dana@gmail.com
